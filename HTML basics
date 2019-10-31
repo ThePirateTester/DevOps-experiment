@@ -1,0 +1,22 @@
+An HTML element usually consists of a start tag and an end tag, with the content inserted in between:
+<tagname>Content goes here...</tagname>
+
+The HTML element is everything from the start tag to the end tag:
+eg:
+<p>My first paragraph.</p>
+
+Tags *SHOULD* be closed, but if not the page *SHOULD* handle it. closed by adding / inside the tag. eg: </h1>
+
+If the element is empty, it doesn't need to be closed.
+
+Types of heading
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+
+The <head> element is a container for metadata. HTML metadata is data about the HTML document. Metadata is not displayed.
+The <head> element is placed between the <html> tag and the <body> tag.
+
+<p>Paragraph</p>
