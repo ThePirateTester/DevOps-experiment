@@ -20,3 +20,18 @@ The <head> element is a container for metadata. HTML metadata is data about the 
 The <head> element is placed between the <html> tag and the <body> tag.
 
 <p>Paragraph</p>
+<br> Line break, and doesn't need a closing tag
+The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+Note: Browsers display <strong> as <b>, and <em> as <i>. However, there is a difference in the meaning of these tags: <b> and <i> defines bold and italic text, but <strong> and <em> means that the text is "important".
+
